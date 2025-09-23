@@ -1,5 +1,5 @@
 # kubernetes-troubleshooting-zero-to-hero
-Learn how to troubleshoot the most common Kubernetes Issues
+troubleshoot the most common Kubernetes Issues
 
 ## Day-01
 
